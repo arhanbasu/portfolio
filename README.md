@@ -3,16 +3,24 @@ This is a personal portfolio website showcasing my projects, skills, and contact
 
 ## Features
 - **Home:** Serves as the welcoming gateway to the portfolio and provides a concise, engaging introduction that highlights who I am and my professional background.
+  
   ![image](https://github.com/user-attachments/assets/f18cc71c-f011-4221-9583-ff932f6a2cbd)
 
+
 - **Skills:** Showcases my core competencies and the tools and technologies I’ve mastered.
+  
   ![image](https://github.com/user-attachments/assets/adc5d3e4-74af-4a8b-9cbc-88514d98fa08)
+  
 
 - **Projects:** Detailed cards with project descriptions and links.
+  
   ![image](https://github.com/user-attachments/assets/ecafcaa0-7aa6-400d-8dae-b5a349ed276d)
+  
 
 - **Contact:** A contact form which provides visitors with a seamless way to reach out directly.
+  
   ![image](https://github.com/user-attachments/assets/0faad545-0f32-4e97-a302-a0afe8bb5146)
+  
 
 ## Technologies Used
 - **React Js:** The entire site is build using React!
